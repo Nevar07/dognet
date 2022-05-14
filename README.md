@@ -1,2 +1,2 @@
-# dognet
+# DogNet
 DL_project
